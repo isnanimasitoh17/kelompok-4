@@ -1,7 +1,7 @@
-# 🌟 UAS Kelompok 2 🌟
+# 🌟 Projek Kelompok 4 🌟
 
 ## 📂 Daftar Isi Folder
-- **Dokumen UAS** 📄
+- **Dokumen Kelompok 4** 📄
   - 📘 Dokumentasi Awal Proyek Pengembangan Basis Data Toko Risky Bawang dan Palawija.pdf
   - 📙 Fitur Database[1].pdf
   - 📗 LAPORAN TUGAS UAS kelompok 2.pdf
@@ -29,8 +29,8 @@ For detailed documentation, refer to the files linked below (written in Indonesi
 ## 🤝 Contributors
 | Contributor       | GitHub Profile                                  |
 |-------------------|------------------------------------------------|
-| **Adia Sandra**  | [🌐 Profile](https://github.com/sandraalmeera) |
-| **Yessica**      | [🌐 Profile](https://github.com/yesicafapa)    |
+| **Adia Sandra**  | [🌐 Profile](https://github.com/dimasx6) |
+| **Yessica**      | [🌐 Profile](https://github.com/anasrulgit)    |
 
 ---
 
